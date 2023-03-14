@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jan 13 20:43:50 2022
+# Process ID: 21980
+# Current directory: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3296 C:\Users\user\Desktop\Programing\Logic Design\Advance\Project\Project Vivado\project.xpr
+# Log file: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado/vivado.log
+# Journal file: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado/project.xpr}
+update_compile_order -fileset sources_1

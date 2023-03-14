@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jan 13 09:44:05 2022
+# Process ID: 16988
+# Current directory: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12984 C:\Users\user\Desktop\Programing\Logic Design\Advance\Project\Project Vivado\project.xpr
+# Log file: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado/vivado.log
+# Journal file: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado/project.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/Project Vivado/project.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:07 . Memory (MB): peak = 1004.871 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Jan 13 09:44:45 2022...

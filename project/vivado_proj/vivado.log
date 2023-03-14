@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jan 13 20:44:43 2022
+# Process ID: 2224
+# Current directory: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/project/vivado_proj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14624 C:\Users\user\Desktop\Programing\Logic Design\Advance\Project\project\vivado_proj\Basys-3-XADC.xpr
+# Log file: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/project/vivado_proj/vivado.log
+# Journal file: C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/project/vivado_proj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/project/vivado_proj/Basys-3-XADC.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/user/Desktop/Programing/Logic Design/Advance/Project/project/vivado_proj'
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'C:/Users/user/Desktop/Programing/Logic Design/Advance/repo'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'c:/Users/user/Desktop/Programing/Logic Design/Advance/repo'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+WARNING: [IP_Flow 19-2162] IP 'xadc_wiz_0' is locked:
+* IP definition 'XADC Wizard (3.3)' for IP 'xadc_wiz_0' (customized with software release 2018.2) has a different revision in the IP Catalog.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:07 . Memory (MB): peak = 1015.336 ; gain = 0.000
+update_compile_order -fileset sources_1
+INFO: [Device 21-403] Loading part xc7a35tcpg236-1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Jan 13 22:58:45 2022...
